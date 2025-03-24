@@ -1,0 +1,1 @@
+# angular-remove-spaces-pipe-
